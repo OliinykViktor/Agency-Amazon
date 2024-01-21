@@ -1,0 +1,58 @@
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  background-color: #1e1e2f;
+}
+
+ul li {
+  list-style: none;
+}
+
+a,
+li {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+td,
+th {
+  background-color: #27293d !important;
+  border-color: #393a41 !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+.active {
+  color: grey;
+  cursor: default;
+}
+
+.card {
+  background-color: #27293d;
+  min-height: 420px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  gap: 0.5rem;
+}
+
+/* .pagination-btn {
+  padding: 0.5rem 1.25rem;
+  background-color: #223549;
+  color: #fff;
+  border: 1px solid #393a41;
+  border-radius: 0.25px;
+  cursor: pointer;
+}
+
+.pagination-btn:active,
+.pagination-btn:hover {
+  background-color: #393a41;
+} */

@@ -1,0 +1,107 @@
+[
+  {
+    "profileId": "501",
+    "country": "USA",
+    "marketplace": "Amazon"
+  },
+  {
+    "profileId": "502",
+    "country": "Canada",
+    "marketplace": "eBay"
+  },
+  {
+    "profileId": "503",
+    "country": "UK",
+    "marketplace": "Etsy"
+  },
+  {
+    "profileId": "504",
+    "country": "Germany",
+    "marketplace": "Alibaba"
+  },
+  {
+    "profileId": "505",
+    "country": "France",
+    "marketplace": "Walmart"
+  },
+  {
+    "profileId": "506",
+    "country": "Italy",
+    "marketplace": "Shopify"
+  },
+  {
+    "profileId": "507",
+    "country": "Spain",
+    "marketplace": "Newegg"
+  },
+  {
+    "profileId": "508",
+    "country": "Australia",
+    "marketplace": "Target"
+  },
+  {
+    "profileId": "509",
+    "country": "Japan",
+    "marketplace": "Rakuten"
+  },
+  {
+    "profileId": "510",
+    "country": "Brazil",
+    "marketplace": "MercadoLibre"
+  },
+  {
+    "profileId": "511",
+    "country": "India",
+    "marketplace": "Flipkart"
+  },
+  {
+    "profileId": "512",
+    "country": "Mexico",
+    "marketplace": "Best Buy"
+  },
+  {
+    "profileId": "513",
+    "country": "China",
+    "marketplace": "JD.com"
+  },
+  {
+    "profileId": "514",
+    "country": "Russia",
+    "marketplace": "Ozon"
+  },
+  {
+    "profileId": "515",
+    "country": "South Korea",
+    "marketplace": "Gmarket"
+  },
+  {
+    "profileId": "516",
+    "country": "Netherlands",
+    "marketplace": "Bol.com"
+  },
+  {
+    "profileId": "517",
+    "country": "Sweden",
+    "marketplace": "CDON"
+  },
+  {
+    "profileId": "518",
+    "country": "Norway",
+    "marketplace": "Finn.no"
+  },
+  {
+    "profileId": "519",
+    "country": "Denmark",
+    "marketplace": "DBA.dk"
+  },
+  {
+    "profileId": "520",
+    "country": "Singapore",
+    "marketplace": "Lazada"
+  },
+  {
+    "profileId": "521",
+    "country": "South Africa",
+    "marketplace": "Takealot"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "campaignId": "101",
+    "clicks": 120,
+    "cost": 150.25,
+    "date": "2024-01-20"
+  },
+  {
+    "campaignId": "102",
+    "clicks": 85,
+    "cost": 100.50,
+    "date": "2024-01-21"
+  },
+  {
+    "campaignId": "103",
+    "clicks": 200,
+    "cost": 250.75,
+    "date": "2024-01-22"
+  },
+  {
+    "campaignId": "104",
+    "clicks": 150,
+    "cost": 180.30,
+    "date": "2024-01-23"
+  },
+  {
+    "campaignId": "105",
+    "clicks": 180,
+    "cost": 210.45,
+    "date": "2024-01-24"
+  },
+  {
+    "campaignId": "106",
+    "clicks": 90,
+    "cost": 120.60,
+    "date": "2024-01-25"
+  },
+  {
+    "campaignId": "107",
+    "clicks": 220,
+    "cost": 280.15,
+    "date": "2024-01-26"
+  },
+  {
+    "campaignId": "108",
+    "clicks": 130,
+    "cost": 160.20,
+    "date": "2024-01-27"
+  },
+  {
+    "campaignId": "109",
+    "clicks": 175,
+    "cost": 200.35,
+    "date": "2024-01-28"
+  },
+  {
+    "campaignId": "110",
+    "clicks": 110,
+    "cost": 140.40,
+    "date": "2024-01-29"
+  },
+  {
+    "campaignId": "111",
+    "clicks": 190,
+    "cost": 230.55,
+    "date": "2024-01-30"
+  },
+  {
+    "campaignId": "112",
+    "clicks": 95,
+    "cost": 130.70,
+    "date": "2024-01-31"
+  },
+  {
+    "campaignId": "113",
+    "clicks": 240,
+    "cost": 300.25,
+    "date": "2024-02-01"
+  },
+  {
+    "campaignId": "114",
+    "clicks": 125,
+    "cost": 170.30,
+    "date": "2024-02-02"
+  },
+  {
+    "campaignId": "115",
+    "clicks": 160,
+    "cost": 190.45,
+    "date": "2024-02-03"
+  },
+  {
+    "campaignId": "116",
+    "clicks": 205,
+    "cost": 240.60,
+    "date": "2024-02-04"
+  },
+  {
+    "campaignId": "117",
+    "clicks": 100,
+    "cost": 150.75,
+    "date": "2024-02-05"
+  },
+  {
+    "campaignId": "118",
+    "clicks": 135,
+    "cost": 180.90,
+    "date": "2024-02-06"
+  },
+  {
+    "campaignId": "119",
+    "clicks": 195,
+    "cost": 220.05,
+    "date": "2024-02-07"
+  },
+  {
+    "campaignId": "120",
+    "clicks": 80,
+    "cost": 110.10,
+    "date": "2024-02-08"
+  },
+  {
+    "campaignId": "121",
+    "clicks": 215,
+    "cost": 260.25,
+    "date": "2024-02-09"
+  }
+]
